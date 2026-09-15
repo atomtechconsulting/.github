@@ -16,7 +16,7 @@ decisions with your data and grow with enterprise AI.
 Working with the Cámara de Comercio de Lanzarote y La Graciosa, MiHUB and the
 Confederación Empresarial de Lanzarote.
 
-[atomtech.es](https://www.atomtech.es/en) · [LinkedIn](https://www.linkedin.com/company/atomtech-consulting/) · <info@atomtech.es>
+[atomtech.es](https://www.atomtech.es/en) · [LinkedIn](https://www.linkedin.com/company/atomtech-consulting/) · [Instagram](https://instagram.com/atomtech_consulting) · <info@atomtech.es>
 
 <details>
 <summary>Español</summary>
@@ -40,6 +40,6 @@ empresa.
 Trabajamos con la Cámara de Comercio de Lanzarote y La Graciosa, MiHUB y la
 Confederación Empresarial de Lanzarote.
 
-[atomtech.es](https://atomtech.es) · [LinkedIn](https://www.linkedin.com/company/atomtech-consulting/) · <info@atomtech.es>
+[atomtech.es](https://atomtech.es) · [LinkedIn](https://www.linkedin.com/company/atomtech-consulting/) · [Instagram](https://instagram.com/atomtech_consulting) · <info@atomtech.es>
 
 </details>
